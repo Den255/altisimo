@@ -1,2 +1,2 @@
 # altisimo
-Telegram bot recovery messages
+Heroku dockerbased app
